@@ -6,7 +6,7 @@
 
 ## 📱 Preview
 
----<img width="1419" height="2796" alt="1753609278823-portrait" src="https://github.com/user-attachments/assets/5068236d-e65e-43e0-b54e-e0938b0e8eae" />
+---<img width="350" height="700" alt="1753609278823-portrait" src="https://github.com/user-attachments/assets/5068236d-e65e-43e0-b54e-e0938b0e8eae" />
  
 
 ---
