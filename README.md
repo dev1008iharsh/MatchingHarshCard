@@ -6,9 +6,8 @@
 
 ## 📱 Preview
 
-<p align="center">
-  <img src="screenshot.png" width="700" alt="Game Screenshot"/>
-</p>
+---<img width="1419" height="2796" alt="1753609278823-portrait" src="https://github.com/user-attachments/assets/5068236d-e65e-43e0-b54e-e0938b0e8eae" />
+ 
 
 ---
 
@@ -17,7 +16,7 @@
 MatchingHarshCard is a classic memory puzzle game where players match pairs of identical cards to clear the grid before time runs out.  
 Designed with smooth animations, responsive controls, sound effects, and a clean UI, the game delivers an enjoyable experience for players of all ages while showcasing core iOS development techniques.
 
----
+
 
 ## ✨ Features
 
